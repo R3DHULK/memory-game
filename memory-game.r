@@ -65,4 +65,5 @@ while (TRUE) {
     cat("Congratulations! You completed the game in ", attempts, " attempts.\n")
     break
   }
+ }
 }
